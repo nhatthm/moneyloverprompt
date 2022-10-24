@@ -7,7 +7,7 @@ require (
 	github.com/bool64/ctxd v1.2.0
 	github.com/nhatthm/moneyloverapi v0.1.1
 	github.com/nhatthm/surveyexpect v0.7.0
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.1
 )
 
 require (
