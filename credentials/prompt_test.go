@@ -5,8 +5,8 @@ import (
 
 	"github.com/AlecAivazis/survey/v2/terminal"
 	"github.com/bool64/ctxd"
-	"github.com/nhatthm/surveyexpect"
 	"github.com/stretchr/testify/assert"
+	"go.nhat.io/surveyexpect"
 
 	"github.com/nhatthm/moneyloverprompt/credentials"
 )

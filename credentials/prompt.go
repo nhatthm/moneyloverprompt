@@ -4,12 +4,12 @@ import (
 	"context"
 	"errors"
 
-	survey "github.com/AlecAivazis/survey/v2"
+	"github.com/AlecAivazis/survey/v2"
 	"github.com/AlecAivazis/survey/v2/terminal"
 	"github.com/bool64/ctxd"
 	"github.com/nhatthm/moneyloverapi"
-	"github.com/nhatthm/surveyexpect/options"
-	"github.com/nhatthm/surveyexpect/options/cobra"
+	"go.nhat.io/surveyexpect/options"
+	"go.nhat.io/surveyexpect/options/cobra"
 )
 
 var _ moneyloverapi.CredentialsProvider = (*Prompt)(nil)
