@@ -6,7 +6,7 @@ require (
 	github.com/AlecAivazis/survey/v2 v2.3.6
 	github.com/bool64/ctxd v1.2.1
 	github.com/nhatthm/moneyloverapi v0.2.0
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.2
 	go.nhat.io/surveyexpect v0.8.0
 )
 
