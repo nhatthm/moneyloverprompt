@@ -3,7 +3,7 @@ module github.com/nhatthm/moneyloverprompt
 go 1.17
 
 require (
-	github.com/AlecAivazis/survey/v2 v2.3.6
+	github.com/AlecAivazis/survey/v2 v2.3.7
 	github.com/bool64/ctxd v1.2.1
 	github.com/nhatthm/moneyloverapi v0.2.0
 	github.com/stretchr/testify v1.8.4
